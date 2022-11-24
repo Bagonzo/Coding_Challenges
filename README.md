@@ -12,5 +12,6 @@
 
 * String Challenge
 * Array Challenge
+* Chart Challenge
 
 It's not much yet, but more are on the way.
