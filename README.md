@@ -11,5 +11,6 @@
 ## List of challenges
 
 * String Challenge
+* Array Challenge
 
 It's not much yet, but more are on the way.
