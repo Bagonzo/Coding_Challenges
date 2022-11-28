@@ -10,7 +10,7 @@
 
 😅 Not all of the challenges have solutions. As of now, there is only one incomplete challenge.
 
-🤞 Promise I'll finish them.
+🤞 Promise I'll do it later.
 
 ## List of challenges
 
