@@ -8,10 +8,15 @@
 
 🤔 Along with the description, comes my version of the solution. At least I THINK they are the solutions.
 
+😅 Not all of the challenges have solutions. As of now, there is only one incomplete challenge.
+
+🤞 Promise I'll finish them.
+
 ## List of challenges
 
 * String Challenge
 * Array Challenge
 * Chart Challenge
+* FizzBuzz Challenge
 
 It's not much yet, but more are on the way. Have fun breaking your heads! Cheers 🍻
